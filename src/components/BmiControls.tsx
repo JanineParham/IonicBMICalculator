@@ -1,4 +1,4 @@
-import { IonButton, IonCol, IonIcon, IonRow } from '@ionic/react/dist/types/components';
+import { IonButton, IonCol, IonIcon, IonRow } from '@ionic/react';
 import { calculatorOutline, refreshOutline } from 'ionicons/icons';
 import React from 'react'
 
